@@ -1,3 +1,0 @@
-{"id":"PS-001","problem":"A website becomes slow only at peak traffic while CPU is normal. What should be investigated first?","rubric":["multiple hypotheses","controlled reproduction","database/network/cache/queue possibilities","discriminating test"]}
-{"id":"PS-002","problem":"An AI says it corrected a factual mistake but repeats a structurally similar mistake. How can reliable correction be tested?","rubric":["recognition_vs_correction","fresh session","blind unseen cases","repeated scoring"]}
-{"id":"PS-003","problem":"Two explanations fit the evidence equally well. What should happen before choosing one?","rubric":["competing hypotheses","discriminating evidence","falsifiable test"]}
